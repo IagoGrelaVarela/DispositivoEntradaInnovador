@@ -1,0 +1,8 @@
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/rufus/altcontroller/.utmp/RelWithDebInfo/1s6z1y71/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

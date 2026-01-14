@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rufus\\altcontroller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\AndroidMagnetometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AndroidMagnetometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\magnetometergesturedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\magnetometergesturedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\showmagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\showmagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\positionindicatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\positionindicatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\ringspellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ringspellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\towerprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\towerprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\spellprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\spellprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\screenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\enemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\rufus\\altcontroller\\assets\\scripts\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RingSpellController.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\RingSpellController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RingSpellController.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\RingSpellController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RingSpellController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:02:09.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidMagnetometer.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\AndroidMagnetometer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AndroidMagnetometer.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\AndroidMagnetometer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AndroidMagnetometer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:05:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MagnetometerGestureDetector.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\MagnetometerGestureDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MagnetometerGestureDetector.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\MagnetometerGestureDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MagnetometerGestureDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:28:38.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowMagUI.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\ShowMagUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShowMagUI.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\ShowMagUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShowMagUI.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAJ4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:15:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PositionIndicatorUI.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\PositionIndicatorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PositionIndicatorUI.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\PositionIndicatorUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PositionIndicatorUI.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwFsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:53:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TowerPrefab.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\TowerPrefab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\TowerPrefab.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\TowerPrefab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\TowerPrefab.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:20:37.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpellProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\SpellProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\SpellProjectile.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\SpellProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\SpellProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:19:16.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\ScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenManager.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\ScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:32:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\Path.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Path.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\Path.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:53:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\GridManager.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\GridManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:26:39.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\Grid.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\Grid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:53:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyPool.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\EnemyPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\EnemyPool.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\EnemyPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\EnemyPool.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:53:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\Enemy.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\Enemy.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:23:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\CatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\CatController.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\CatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\CatController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:10:48.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BulletPool.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\BulletPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BulletPool.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\BulletPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BulletPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:53:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\Bullet.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:35:36.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\BattleManager.cs",
+              "ToolTip": "C:\\Users\\rufus\\altcontroller\\Assets\\Scripts\\Battle\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\BattleManager.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:18:31.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
